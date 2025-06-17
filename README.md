@@ -1,32 +1,42 @@
-# Customer Churn Analysis in Power BI
+# 📉 Customer Churn Analysis in Power BI
 
-This project analyzes customer churn data from a fictional telecom company called Databel using Power BI. It was completed as part of a DataCamp case study.
+This project analyzes customer churn data from a fictional telecom company, **Databel**, using **Power BI**. It was developed as part of a real-world case study offered by **DataCamp** and covers everything from data modeling to dashboard design.
 
-## 📊 Objective
-To identify churn patterns, understand their causes, and propose strategies to reduce customer churn using interactive dashboards.
+## 🎯 Objective
 
-## 🔧 Tools Used
+To identify patterns and causes of customer churn and propose strategies to reduce it. The final result is a set of interactive dashboards built with DAX, calculated columns, and advanced Power BI visualizations.
+
+## 🛠️ Tools & Technologies
+
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
-- DataCamp learning platform
+- Power Query
+- DataCamp Learning Platform
 
 ## 📁 Project Structure
-- `/report`: Power BI .pbix files
-- `/docs`: Project documentation
-- `/scripts`: DAX formulas used in calculations
-- `/images`: Visual examples of dashboards
+
+| Folder       | Description |
+|--------------|-------------|
+| `report/`    | Power BI report files (`.pbix`) |
+| `images/`    | Dashboard previews |
+| `docs/`      | Project documentation and write-up |
+| `scripts/`   | Key DAX formulas and calculations |
 
 ## 🔍 Key Insights
 - Customers on monthly contracts have the highest churn rates.
 - Younger and older customers show different churn behaviors.
 - High data usage does not always correlate with retention.
 
-## 🖼 Dashboard Preview
-![Dashboard Example](images/Dashboard2_1.png)
+## 📊 Dashboards
 
-## 📂 Files
-- `Dashboard1.pbix`: Analysis by contract types
-- `Dashboard2.pbix`: Additional insights and demographics
+- **Dashboard 1:** Churn by contract type, plan, and internet service
+- **Dashboard 2:** Demographics, age brackets, geolocation, and plan-based churn
+
+### 📸 Previews
+
+![Dashboard 1](images/Dashboard1_1.png)
+![Dashboard 2 - Part 1](images/Dashboard2_1.png)
+![Dashboard 2 - Part 2](images/Dashboard2_2.png)
 
 ## ✅ How to Run
 Open `.pbix` files using Power BI Desktop.
