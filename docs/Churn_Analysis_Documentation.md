@@ -103,7 +103,6 @@ These insights can guide targeted retention campaigns and product/service improv
 - `dax_formulas_full.md`: DAX code used for calculations.
 - `README.md`: Summary of the repository.
 - Dashboard previews in `/images` folder.
-- This document and the original write-up in `/docs`.
 
 ---
 
