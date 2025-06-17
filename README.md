@@ -22,11 +22,11 @@ To identify churn patterns, understand their causes, and propose strategies to r
 - High data usage does not always correlate with retention.
 
 ## 🖼 Dashboard Preview
-![Dashboard Example](images/sample_dashboard.png)
+![Dashboard Example](images/Dashboard2_1.png)
 
 ## 📂 Files
-- `2_7_contract_type_solution.pbix`: Analysis by contract types
-- `3_5_more_insights_solution.pbix`: Additional insights and demographics
+- `Dashboard1.pbix`: Analysis by contract types
+- `Dashboard2.pbix`: Additional insights and demographics
 
 ## ✅ How to Run
 Open `.pbix` files using Power BI Desktop.
