@@ -2,7 +2,7 @@
 # 📄 Customer Churn Analysis in Power BI
 
 ## 🧩 Project Overview
-This Power BI case study explores customer churn behavior in a fictional telecom company named **Databel**. The goal is to identify churn rates, uncover patterns, and propose data-driven strategies to minimize customer loss. The project was completed through the DataCamp platform and combines analytical thinking with practical dashboard design.
+This Power BI case study explores customer churn behavior in a telecom company named **Databel**. The goal is to identify churn rates, uncover patterns, and propose data-driven strategies to minimize customer loss. The project was completed through the DataCamp platform and combines analytical thinking with practical dashboard design.
 
 ---
 
