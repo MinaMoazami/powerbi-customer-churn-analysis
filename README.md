@@ -1,6 +1,6 @@
 # 📉 Customer Churn Analysis in Power BI
 
-This project analyzes customer churn data from a fictional telecom company, **Databel**, using **Power BI**. It was developed as part of a real-world case study offered by **DataCamp** and covers everything from data modeling to dashboard design.
+This project analyzes customer churn data from a telecom company, **Databel**, using **Power BI**. It was developed as part of a real-world case study offered by **DataCamp** and covers everything from data modeling to dashboard design.
 
 ## 🎯 Objective
 
